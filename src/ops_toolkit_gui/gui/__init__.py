@@ -1,0 +1,1 @@
+"""Qt Widgets GUI layer."""
